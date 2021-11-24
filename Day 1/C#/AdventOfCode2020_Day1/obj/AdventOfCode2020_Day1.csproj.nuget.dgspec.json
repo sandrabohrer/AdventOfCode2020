@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj": {}
+    "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj": {}
   },
   "projects": {
-    "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj": {
+    "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
+        "projectUniqueName": "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
         "projectName": "AdventOfCode2020_Day1",
-        "projectPath": "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
+        "projectPath": "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
         "packagesPath": "C:\\Users\\sbohrer\\.nuget\\packages\\",
-        "outputPath": "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\obj\\",
+        "outputPath": "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

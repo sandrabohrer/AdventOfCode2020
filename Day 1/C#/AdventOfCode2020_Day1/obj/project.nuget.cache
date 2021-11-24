@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+aeFe9Tntk9yDjbr7DNGrjhAyIuoNsElf9DxSn2dFzHkLA1Sd8UCh1eTqxsV4qaYXcQCN7gEF4/p5GmlrI8qMg==",
+  "dgSpecHash": "Z8UIKGjFH/YIFdtMeLcEGu5R/q++TMqz8MEfbFK3L6fh9ESmLsUhZIDYuHMvoXsBRadH5QiYO+g0D4A0RhXhHQ==",
   "success": true,
-  "projectFilePath": "C:\\AdventOfCode\\AdventOfCode2020\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
+  "projectFilePath": "C:\\AdventOfCode\\AdventOfCode2020\\Day 1\\C#\\AdventOfCode2020_Day1\\AdventOfCode2020_Day1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

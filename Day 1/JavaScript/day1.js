@@ -16,7 +16,8 @@ fs.readFile('data/day1.txt', 'utf8' , (err, data) => {
 
     for (let i = 0; i < expenseReportArray.length; i++) {
       for (let j = 0; j < expenseReportArray.length; j++) {
-        if (i != j && expenseReportArray[i] != expenseReportArray[j]) {
+        var validPart1 = i != j && expenseReportArray[i] != expenseReportArray[j]
+        if (validPart1) {
           var expenseSumPart1 = expenseReportArray[i] + expenseReportArray[j]
 
           if (expenseSumPart1 == 2020) {

@@ -12,3 +12,17 @@ C:\AdventOfCode\AdventOfCode2020\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\A
 C:\AdventOfCode\AdventOfCode2020\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.dll
 C:\AdventOfCode\AdventOfCode2020\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.pdb
 C:\AdventOfCode\AdventOfCode2020\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.genruntimeconfig.cache
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.exe
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.deps.json
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.runtimeconfig.json
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.runtimeconfig.dev.json
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.dll
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\bin\Debug\netcoreapp3.1\AdventOfCode2020_Day1.pdb
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.csproj.AssemblyReference.cache
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.AssemblyInfoInputs.cache
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.AssemblyInfo.cs
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.csproj.CoreCompileInputs.cache
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.dll
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.pdb
+C:\AdventOfCode\AdventOfCode2020\Day 1\C#\AdventOfCode2020_Day1\obj\Debug\netcoreapp3.1\AdventOfCode2020_Day1.genruntimeconfig.cache
